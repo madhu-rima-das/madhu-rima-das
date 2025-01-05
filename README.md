@@ -14,6 +14,7 @@
 
 ###
 
+
 <h2 align="left">I code with</h2>
 
 ###
@@ -50,15 +51,6 @@
 
 ###
 
-<h2 align="left">Profile visits</h2>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/madhu-rima-das/count.svg?"  />
-</div>
-
-###
 
 <h2 align="left">How to reach me</h2>
 
@@ -74,6 +66,17 @@
   <a href="https://www.hackerrank.com/profile/hr_madhurima" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
   </a>
+</div>
+
+###
+
+
+<h2 align="left">Profile visits</h2>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/madhu-rima-das/count.svg?"  />
 </div>
 
 ###
